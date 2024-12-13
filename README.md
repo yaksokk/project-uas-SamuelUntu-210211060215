@@ -1,7 +1,7 @@
-# Nama dan NIM
+# Nama dan NIM 
 ### Name : Samuel Meinus Untu
 ### NIM : 210211060215
-
+### [**Link Video Demo**](https://drive.google.com/drive/folders/1ih_4CmdIrzfsZgcgxNTI6cymqh_wJ2pI?usp=sharing)
 # 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
